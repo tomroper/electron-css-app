@@ -1,5 +1,5 @@
 # electron-css-app
-
+Will aim to pull information from tables in a google doc, and create a css file with a new projects colour scheme
 
 ## Dev
 
@@ -24,4 +24,4 @@ Builds the app for macOS, Linux, and Windows, using [electron-packager](https://
 
 ## License
 
-MIT © [<%= name %>](<%= website %>)
+MIT © 
